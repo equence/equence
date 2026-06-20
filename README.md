@@ -52,16 +52,20 @@ void work() {
 
 ### **Hardware & Embedded**
 ![ST](https://img.shields.io/badge/STMicroelectronics-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-%231F1A7A.svg?style=for-the-badge&logo=riscv&logoColor=white)
+![TI](https://img.shields.io/badge/Texas%20Instruments-%23CD3333.svg?style=for-the-badge&logo=texasinstruments&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%23E84393.svg?style=for-the-badge&logo=freertos&logoColor=white)
 ![SiFli](https://img.shields.io/badge/SiFli-%233399FF.svg?style=for-the-badge&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%23000000.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![JLink](https://img.shields.io/badge/JLink-%2300B4FF.svg?style=for-the-badge&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-%23430098.svg?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -75,17 +79,16 @@ void work() {
   ![Orbit](https://img.shields.io/badge/Orbit-%23FFFFFF?style=for-the-badge)
   ![ARTMS](https://img.shields.io/badge/ARTMS-%23000000?style=for-the-badge)
 
-  > _"You and me, we're the same — we don't need a reason to fly."_ 🚀
-  > 
+  > _"You and me, we're the same — we don't need a reason to fly."_ 🚀  
   > **덕질하는 게 제 원동력이에요!** 💚
 
-  | Member | Bias | Song on Repeat |
-  |:------:|:----:|:--------------:|
-  | 🐰 희진 | + | _Algorithm_ |
-  | 🦌 하슬 | + | _Plastic Candy_ |
-  | 🐱 김립 | + | _Eclipse_ |
-  | 🐯 진솔 | + | _Singing in the Rain_ |
-  | 🦉 최리 | + | _Pressure_ |
+  | Member | Song on Repeat |
+  |:------:|:--------------:|
+  | 🐰 희진 | _Algorithm_ |
+  | 🦌 하슬 | _Plastic Candy_ |
+  | 🐱 김립 | _Eclipse_ |
+  | 🐯 진솔 | _Singing in the Rain_ |
+  | 🦇 최리 | _Pressure_ |
 
 </div>
 
