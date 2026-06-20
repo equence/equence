@@ -85,16 +85,37 @@ void work() {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=equence&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equence&layout=compact&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117&hide_border=true&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=equence&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=equence&show_icons=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&hide_border=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=equence&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=equence&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=equence&theme=github">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=equence&theme=github_dark" alt="Most Commit Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=equence&theme=github_dark&utcOffset=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=equence&theme=github&utcOffset=8">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=equence&theme=github_dark&utcOffset=8" alt="Productive Time" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=dark&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=dark&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=light&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=666666&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=dark&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=equence&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=equence&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=equence&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=equence&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies">
+  </picture>
 </div>
 
 ---
@@ -113,9 +134,10 @@ void work() {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sssequence_)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sssequence_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/as_osolemio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangmian2333@gmail.com)
+[![QQ Mail](https://img.shields.io/badge/QQ%20Mail-%2312B7F5.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:equence@qq.com)
 
 </div>
 
