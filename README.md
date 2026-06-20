@@ -8,6 +8,15 @@
 
 ---
 
+## 🎧 **Now Playing**
+
+<div align="center">
+
+> **_Sweet Crazy Love — LOONA / ODD EYE CIRCLE on repeat_** 🎶
+
+</div>
+
+---
 ## 👨‍🔧 **About Me**
 
 ```c
@@ -108,16 +117,6 @@ void work() {
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=light&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=666666&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=equence&theme=dark&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak">
   </picture>
-</div>
-
----
-
-## 🎧 **Now Playing**
-
-<div align="center">
-
-> **_Sweet Crazy Love — LOONA / ODD EYE CIRCLE on repeat_** 🎶
-
 </div>
 
 ---
