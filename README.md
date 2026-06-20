@@ -110,14 +110,6 @@ void work() {
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=equence&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=equence&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=equence&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies">
-  </picture>
-</div>
-
 ---
 
 ## 🎧 **Now Playing**
